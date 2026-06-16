@@ -1,5 +1,15 @@
 # Fuck Them Kids - Animal Company VR Mod Menu v2.0
 
+**DISCLAIMER / WARNING:** If you get caught using this mod, get banned from the game, lose your account/progress, or face any other consequences (including but not limited to game bans, hardware issues, legal action, data loss, or harm to others), it is NOT my fault. This software is provided strictly as-is for educational, research, and personal testing purposes only. By downloading, compiling, installing, or using any part of this repository or its files, you fully acknowledge and agree that:
+- You are solely and entirely responsible for your own actions and any outcomes.
+- I (the creator) bear zero responsibility, liability, or accountability for any bans, damages, losses, legal issues, or negative effects whatsoever.
+- This may violate the game's Terms of Service and End User License Agreement.
+- Modding/cheating can corrupt saves, break the game, expose you to risks, or lead to permanent bans.
+- The IP puller functionality extracts network information and should only be used in controlled, legal, private testing environments.
+- Use of this software is at your own complete and sole risk.
+
+If you do not agree with the above, do not download or use any files from this repository.
+
 **Complete source code and full guide for the ultimate mod menu with EVERYTHING including real-time IP Puller.**
 
 Made by fin.z.editz TIKTOK | Protocol Zero Active
